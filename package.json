@@ -1,0 +1,9 @@
+{
+  "name": "tchoua-app-member-savings-coach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Savings Coach — plan d'épargne pour les membres Tchoua",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  }
+}
